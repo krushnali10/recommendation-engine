@@ -1,0 +1,18 @@
+vevn/
+data/recommendation.db
+data/amazon-product-review/
+__pycache__/
+*.pyc
+.vscode/
+debug_eval.py
+show_recs.py
+compare_methods.py
+cat > .gitigonre << 'EOF'
+venv/
+data/recommendation.db
+data/amazon-product-reviews/
+__pycache__/
+*.pyc
+.vscode/
+compare_methods.py
+Thumbs.db
